@@ -31,8 +31,6 @@ get_header(); ?>
 
 			</td></tr>
 			</table>
-			</td><td bgcolor="#CCCC99"><img src="/global/s.gif" width="1" height="300" /></td><td valign="top"><div id="side_list"><h3><a href="/members/">Monogram Club<br>Members Login</a></h3></div><div id="nav">
-			<?php
-			include('php_stuff/monogram_verticalmenu.php');
-			?></p></div></td><td bgcolor="#FFFFFF"><img src="/global/s.gif" width="1" height="300" /></td></tr>
+			</td><td bgcolor="#CCCC99"><img src="/global/s.gif" width="1" height="300" /></td>
+			<td><img src="/global/s.gif" width="1" height="300" /></td></tr>
 <?php get_footer(); ?>
