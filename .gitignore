@@ -1,0 +1,7 @@
+.DS_Store?
+/upload/*
+/plugins/*
+/themes/twentyten/*
+/themes/twentyeleven/*
+index.php
+/themes/index.php

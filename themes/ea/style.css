@@ -1,0 +1,51 @@
+/*
+Theme Name: EmbroideryArts
+Theme URI: http://danielwiener.com/
+Description: My description
+Version: 1.0
+Author: Daniel Wiener
+Author URI: http://danielwiener.com
+Tags: my, design, tags, go, here
+Template: twentyeleven
+*/          
+
+ .nav-previous { 
+	float: left;
+	width: 50%;
+	font-size: 11px;  
+}
+ .nav-next {   
+	float: right;
+	text-align: right;
+	width: 50%;
+	font-size: 11px;
+
+} 
+
+.nav-next a:link, .nav-next a:visited, .nav-previous a:link, .nav-previous a:visited{
+	color: #999; 
+	text-decoration: none;
+	}    
+	
+.nav-next a:hover, .nav-next a:active, .nav-previous a:hover, .nav-previous a:active{
+		color: #CC3300;
+		}
+
+ 
+h1.widget-title {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #CC3300;
+	padding: 0 0 0 7px;
+	margin: 5px 0 0 0;
+}
+
+.widget ul li a:link, .widget ul li a:visited {
+	font-size: 13px;
+	color: #003300; 
+}  
+
+.widget ul li a:active, .widget ul li a:hover {
+	color: #CC3300; 
+}
