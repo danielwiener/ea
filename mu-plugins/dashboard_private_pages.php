@@ -76,7 +76,7 @@ function add_dashboard_widgets()
 {  
 	if ( current_user_can( 'edit_posts' ) ) {
   	// create a dashboard widget called "private_page_menu_dashboard_widget" with the title "Private Pages Menu" and call our display function to draw it
-	  wp_add_dashboard_widget('private_page_menu_dashboard_widget', 'Grant Application Instructions', 'display_dashboard_widget' ); 
+	  wp_add_dashboard_widget('private_page_menu_dashboard_widget', 'EmbroideryArts Instructions', 'display_dashboard_widget' ); 
 	}
 }
 
