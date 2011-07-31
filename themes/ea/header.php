@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>Embroidery Arts | Special Offers Exclusively For Newsletter Subscribers	</title>
+<title>Embroidery Arts | Special Offers Exclusively For Newsletter Subscribers</title>
 
 <?php
 include('templates/meta_tag.tmpl');
