@@ -1,5 +1,5 @@
 .DS_Store?
-/upload/*
+/uploads/*
 /plugins/*
 /themes/twentyten/*
 /themes/twentyeleven/*
